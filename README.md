@@ -1,5 +1,6 @@
 ## Oh Hi 👋
 
+![moom](giphy.gif)
 
 Studying to become a **Game Designer / Programmer** [VIOD1]
 
