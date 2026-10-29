@@ -8,4 +8,4 @@ Supermarket Together professional player
 ```
 Exhausted? Tired. Want rest? Hungry. Want out?
 ```
-![Lolang](ThisSal/lolang.jpg)
+![Lolang](lolang.jpg)
