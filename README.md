@@ -3,5 +3,4 @@
 ```
 Exhausted? Tired. Want rest? Hungry. Want out?
 ```
-![lolang.jpg]
-
+!lolang.jpg
