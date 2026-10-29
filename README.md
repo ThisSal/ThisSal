@@ -1,10 +1,12 @@
-## Oh Hi 👋
-
 ![moom](giphy.gif)
 
-Studying to become a **Game Designer / Programmer** [VIOD1]
+## Oh Hi 👋
 
-20yo 
+Studying to become a **Game Designer / Programmer** [VIOD1]
+Am A Dude
+20yo (almost chopped gng 🥀)
+
+
 
 
 Exhausted? Tired. Want rest? Hungry. Want out?
